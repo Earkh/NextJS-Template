@@ -24,4 +24,4 @@
 - [ ] Change the favicon in `public`
 - [ ] Clean up the README
 - [ ] Execute `yarn husky install`
-- [ ] Execute `yarn husky add .husky/pre-commit "yarn tsc --noEmit && yarn eslint . && yarn prettier --write .`
+- [ ] Execute `yarn husky add .husky/pre-commit "yarn tsc --noEmit && yarn eslint . && yarn prettier --write ."`
